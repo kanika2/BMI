@@ -1,0 +1,16 @@
+Prediction/forecast
+Random Forest 
+hirarchical /decision tree
+
+===================
+1. Sentiment analysis /facebook
+2. Web scawler 
+3. BMI Test
+4. Branch wise score visualaition
+5. Image processing
+6. Face recogniser
+7. Movie recommendation system
+8. OS directory and file mana.
+9. School management system
+10. Banking system 
+
